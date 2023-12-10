@@ -188,11 +188,6 @@ Depois disso, basta esperar para que o dono da branch original aceite o seu pull
 
 Existem diversas outras funcionalidades do Git e do Github, porém tenho certeza que com tudo isso que vocês viram hoje vocês já conseguem desenvolver um projeto de uma forma bem legal
 
-
-obs:ao dar push, aparecer o erro "fatal: protocol 'https' not is supported", digite o seguinte comando ''git remote set-url origin + o seu link'' e então após isso dar o comando do push, esse erro pode acontecer devido a  caracteres especiais =)
-
 Recomendo sempre vocês darem uma olhada na [documentação do Git](https://git-scm.com/doc), pois qualquer dúvida que apareça pode ser respondida por lá na explicação
 
-**Não esqueçam de deixar o like e se inscrever no [canal do Youtube](https://youtube.com/RafaellaBallerini) ❤**
-
-Até semana que vem, um beijo!
+obs:ao dar push, aparecer o erro "fatal: protocol 'https' not is supported", digite o seguinte comando ''git remote set-url origin + o seu link'' e então após isso dar o comando do push, esse erro pode acontecer devido a  caracteres especiais =)
